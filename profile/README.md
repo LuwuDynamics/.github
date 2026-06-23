@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🤖 Welcome to the LuwuDynamics Open Source Community!<br>
+  Welcome to the LuwuDynamics Open Source Community!<br>
   <sub>欢迎来到 LuwuDynamics 开源社区！</sub>
 </h1>
 
