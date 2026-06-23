@@ -73,7 +73,7 @@ We value contributions and actively recognize our most engaged community members
 | 🌐 [Official Website / 官网](https://www.xgorobot.com) | Product info, use cases, and latest news / 产品信息、应用案例与最新动态 |
 | 📚 [Wiki / 文档](https://wiki.xgorobot.com) | API references, getting-started guides, and tutorials / API 参考、入门指南与教程 |
 | 💻 [IDE / 开发环境](https://ide.xgorobot.com) | Online development environment and code playground / 在线开发环境与代码实验场 |
-| 💬 [Discord Community / Discord 社区](https://discord.gg/pfWrJeJRh6) | Real-time chat, Q&A, and community collaboration / 实时聊天的问答、创意交流与社区协作 |
+| 💬 [Discord Community / Discord社区](https://discord.gg/pfWrJeJRh6) | Real-time chat, Q&A, and community collaboration / 实时聊天的问答、创意交流与社区协作 |
 
 ---
 
