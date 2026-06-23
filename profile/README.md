@@ -78,6 +78,5 @@ We value contributions and actively recognize our most engaged community members
 ---
 
 <p align="center">
-  <i>Building intelligence, one joint at a time. / 以关节为基石，构筑智能。</i><br><br>
   <sub>© 2025 LuwuDynamics. Made with ❤️ by robotics enthusiasts worldwide.<br>© 2025 LuwuDynamics. 由全球机器人爱好者用 ❤️ 打造。</sub>
 </p>
