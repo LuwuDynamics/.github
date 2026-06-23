@@ -6,11 +6,6 @@
   Welcome to the LuwuDynamics Open Source Community!<br>
   <sub>欢迎来到 LuwuDynamics 开源社区！</sub>
 </h1>
-
-<p align="center">
-  <b>English</b> · <a href="#-欢迎来到-luwudynamics-开源社区">中文</a>
-</p>
-
 ---
 
 At LuwuDynamics, we believe robotics should be intelligent, adaptive, and accessible. Our mission is to bridge the gap between cutting-edge dynamics research and real-world robotic applications — empowering developers, researchers, and makers to build the next generation of intelligent machines.
